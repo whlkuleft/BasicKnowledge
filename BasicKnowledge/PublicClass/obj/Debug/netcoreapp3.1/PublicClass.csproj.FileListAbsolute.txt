@@ -1,0 +1,9 @@
+D:\GitHub\BasicKnowledge\BasicKnowledge\PublicClass\bin\Debug\netcoreapp3.1\PublicClass.deps.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\PublicClass\bin\Debug\netcoreapp3.1\PublicClass.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\PublicClass\bin\Debug\netcoreapp3.1\PublicClass.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\PublicClass\obj\Debug\netcoreapp3.1\PublicClass.csprojAssemblyReference.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\PublicClass\obj\Debug\netcoreapp3.1\PublicClass.AssemblyInfoInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\PublicClass\obj\Debug\netcoreapp3.1\PublicClass.AssemblyInfo.cs
+D:\GitHub\BasicKnowledge\BasicKnowledge\PublicClass\obj\Debug\netcoreapp3.1\PublicClass.csproj.CoreCompileInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\PublicClass\obj\Debug\netcoreapp3.1\PublicClass.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\PublicClass\obj\Debug\netcoreapp3.1\PublicClass.pdb

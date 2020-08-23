@@ -1,0 +1,16 @@
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\bin\Debug\netcoreapp3.1\泛型.exe
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\bin\Debug\netcoreapp3.1\泛型.deps.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\bin\Debug\netcoreapp3.1\泛型.runtimeconfig.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\bin\Debug\netcoreapp3.1\泛型.runtimeconfig.dev.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\bin\Debug\netcoreapp3.1\泛型.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\bin\Debug\netcoreapp3.1\泛型.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\obj\Debug\netcoreapp3.1\泛型.csprojAssemblyReference.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\obj\Debug\netcoreapp3.1\泛型.AssemblyInfoInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\obj\Debug\netcoreapp3.1\泛型.AssemblyInfo.cs
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\obj\Debug\netcoreapp3.1\泛型.csproj.CoreCompileInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\obj\Debug\netcoreapp3.1\泛型.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\obj\Debug\netcoreapp3.1\泛型.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\obj\Debug\netcoreapp3.1\泛型.genruntimeconfig.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\bin\Debug\netcoreapp3.1\PublicClass.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\bin\Debug\netcoreapp3.1\PublicClass.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\泛型\obj\Debug\netcoreapp3.1\泛型.csproj.CopyComplete

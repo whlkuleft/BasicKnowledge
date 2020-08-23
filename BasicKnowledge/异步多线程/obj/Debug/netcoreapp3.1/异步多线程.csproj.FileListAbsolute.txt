@@ -1,0 +1,13 @@
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\bin\Debug\netcoreapp3.1\异步多线程.exe
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\bin\Debug\netcoreapp3.1\异步多线程.deps.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\bin\Debug\netcoreapp3.1\异步多线程.runtimeconfig.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\bin\Debug\netcoreapp3.1\异步多线程.runtimeconfig.dev.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\bin\Debug\netcoreapp3.1\异步多线程.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\bin\Debug\netcoreapp3.1\异步多线程.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\obj\Debug\netcoreapp3.1\异步多线程.csprojAssemblyReference.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\obj\Debug\netcoreapp3.1\异步多线程.AssemblyInfoInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\obj\Debug\netcoreapp3.1\异步多线程.AssemblyInfo.cs
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\obj\Debug\netcoreapp3.1\异步多线程.csproj.CoreCompileInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\obj\Debug\netcoreapp3.1\异步多线程.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\obj\Debug\netcoreapp3.1\异步多线程.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\异步多线程\obj\Debug\netcoreapp3.1\异步多线程.genruntimeconfig.cache

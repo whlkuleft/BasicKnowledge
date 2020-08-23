@@ -1,0 +1,13 @@
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\bin\Debug\netcoreapp3.1\委托.exe
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\bin\Debug\netcoreapp3.1\委托.deps.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\bin\Debug\netcoreapp3.1\委托.runtimeconfig.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\bin\Debug\netcoreapp3.1\委托.runtimeconfig.dev.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\bin\Debug\netcoreapp3.1\委托.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\bin\Debug\netcoreapp3.1\委托.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\obj\Debug\netcoreapp3.1\委托.csprojAssemblyReference.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\obj\Debug\netcoreapp3.1\委托.AssemblyInfoInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\obj\Debug\netcoreapp3.1\委托.AssemblyInfo.cs
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\obj\Debug\netcoreapp3.1\委托.csproj.CoreCompileInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\obj\Debug\netcoreapp3.1\委托.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\obj\Debug\netcoreapp3.1\委托.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\委托\obj\Debug\netcoreapp3.1\委托.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\bin\Debug\netcoreapp3.1\设计模式.exe
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\bin\Debug\netcoreapp3.1\设计模式.deps.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\bin\Debug\netcoreapp3.1\设计模式.runtimeconfig.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\bin\Debug\netcoreapp3.1\设计模式.runtimeconfig.dev.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\bin\Debug\netcoreapp3.1\设计模式.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\bin\Debug\netcoreapp3.1\设计模式.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\obj\Debug\netcoreapp3.1\设计模式.csprojAssemblyReference.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\obj\Debug\netcoreapp3.1\设计模式.AssemblyInfoInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\obj\Debug\netcoreapp3.1\设计模式.AssemblyInfo.cs
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\obj\Debug\netcoreapp3.1\设计模式.csproj.CoreCompileInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\obj\Debug\netcoreapp3.1\设计模式.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\obj\Debug\netcoreapp3.1\设计模式.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\设计模式\obj\Debug\netcoreapp3.1\设计模式.genruntimeconfig.cache

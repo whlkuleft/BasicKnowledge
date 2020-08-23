@@ -1,0 +1,13 @@
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\bin\Debug\netcoreapp3.1\特性.exe
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\bin\Debug\netcoreapp3.1\特性.deps.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\bin\Debug\netcoreapp3.1\特性.runtimeconfig.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\bin\Debug\netcoreapp3.1\特性.runtimeconfig.dev.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\bin\Debug\netcoreapp3.1\特性.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\bin\Debug\netcoreapp3.1\特性.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\obj\Debug\netcoreapp3.1\特性.csprojAssemblyReference.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\obj\Debug\netcoreapp3.1\特性.AssemblyInfoInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\obj\Debug\netcoreapp3.1\特性.AssemblyInfo.cs
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\obj\Debug\netcoreapp3.1\特性.csproj.CoreCompileInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\obj\Debug\netcoreapp3.1\特性.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\obj\Debug\netcoreapp3.1\特性.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\特性\obj\Debug\netcoreapp3.1\特性.genruntimeconfig.cache
