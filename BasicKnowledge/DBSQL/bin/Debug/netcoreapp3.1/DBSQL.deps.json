@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "DBSQL/1.0.0": {
+        "dependencies": {
+          "DBInterface": "1.0.0"
+        },
+        "runtime": {
+          "DBSQL.dll": {}
+        }
+      },
+      "DBInterface/1.0.0": {
+        "runtime": {
+          "DBInterface.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DBSQL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DBInterface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

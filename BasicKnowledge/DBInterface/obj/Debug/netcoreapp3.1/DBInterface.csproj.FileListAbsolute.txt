@@ -1,0 +1,8 @@
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBInterface\bin\Debug\netcoreapp3.1\DBInterface.deps.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBInterface\bin\Debug\netcoreapp3.1\DBInterface.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBInterface\bin\Debug\netcoreapp3.1\DBInterface.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.AssemblyInfoInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.AssemblyInfo.cs
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.csproj.CoreCompileInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBInterface\obj\Debug\netcoreapp3.1\DBInterface.pdb

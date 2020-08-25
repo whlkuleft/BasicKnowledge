@@ -1,0 +1,12 @@
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\bin\Debug\netcoreapp3.1\DBMYSQL.deps.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\bin\Debug\netcoreapp3.1\DBMYSQL.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\bin\Debug\netcoreapp3.1\DBMYSQL.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\bin\Debug\netcoreapp3.1\DBInterface.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\bin\Debug\netcoreapp3.1\DBInterface.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\obj\Debug\netcoreapp3.1\DBMYSQL.csprojAssemblyReference.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\obj\Debug\netcoreapp3.1\DBMYSQL.AssemblyInfoInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\obj\Debug\netcoreapp3.1\DBMYSQL.AssemblyInfo.cs
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\obj\Debug\netcoreapp3.1\DBMYSQL.csproj.CoreCompileInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\obj\Debug\netcoreapp3.1\DBMYSQL.csproj.CopyComplete
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\obj\Debug\netcoreapp3.1\DBMYSQL.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBMYSQL\obj\Debug\netcoreapp3.1\DBMYSQL.pdb

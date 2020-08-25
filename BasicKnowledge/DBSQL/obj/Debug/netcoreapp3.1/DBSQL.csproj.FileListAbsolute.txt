@@ -1,0 +1,12 @@
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\bin\Debug\netcoreapp3.1\DBSQL.deps.json
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\bin\Debug\netcoreapp3.1\DBSQL.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\bin\Debug\netcoreapp3.1\DBSQL.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\bin\Debug\netcoreapp3.1\DBInterface.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\bin\Debug\netcoreapp3.1\DBInterface.pdb
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\obj\Debug\netcoreapp3.1\DBSQL.csprojAssemblyReference.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\obj\Debug\netcoreapp3.1\DBSQL.AssemblyInfoInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\obj\Debug\netcoreapp3.1\DBSQL.AssemblyInfo.cs
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\obj\Debug\netcoreapp3.1\DBSQL.csproj.CoreCompileInputs.cache
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\obj\Debug\netcoreapp3.1\DBSQL.csproj.CopyComplete
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\obj\Debug\netcoreapp3.1\DBSQL.dll
+D:\GitHub\BasicKnowledge\BasicKnowledge\DBSQL\obj\Debug\netcoreapp3.1\DBSQL.pdb

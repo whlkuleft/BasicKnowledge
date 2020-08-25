@@ -28,7 +28,32 @@ namespace 泛型
 
         //多组合约束
         public static void Show<T>(T t) where T : People, ISports, new() { }
-        
+
+        public class GenericMethod
+        {
+            public void Show<T, W, X>(T t, W w, X x)
+            {
+                Console.WriteLine("t.type={0},w.type={1},x.type={2}", t.GetType().Name, w.GetType().Name, x.GetType().Name);
+            }
+        }
+
+        public class GenericClass<T, W, X>
+        {
+            public void Show(T t, W w, X x)
+            {
+                Console.WriteLine("t.type={0},w.type={1},x.type={2}", t.GetType().Name, w.GetType().Name, x.GetType().Name);
+            }
+        }
+
+
+        public class GenericDouble<T>
+        {
+            public void Show<W, X>(T t, W w, X x)
+            {
+                Console.WriteLine("t.type={0},w.type={1},x.type={2}", t.GetType().Name, w.GetType().Name, x.GetType().Name);
+            }
+        }
+
     }
 
     
