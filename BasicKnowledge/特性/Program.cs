@@ -32,6 +32,11 @@ namespace 特性
                     }
                 }
             }
+            {
+                LLTEST test = new LLTEST();
+                test.Name = "wangnima";
+                test.Validate();
+            }
             //{
             //    Test test = new Test();
             //    test.Name = "test";
